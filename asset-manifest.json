@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pace-gpx-front/static/css/main.a617e044.chunk.css",
+    "main.js": "/pace-gpx-front/static/js/main.bd7110fb.chunk.js",
+    "main.js.map": "/pace-gpx-front/static/js/main.bd7110fb.chunk.js.map",
+    "runtime-main.js": "/pace-gpx-front/static/js/runtime-main.901d9d63.js",
+    "runtime-main.js.map": "/pace-gpx-front/static/js/runtime-main.901d9d63.js.map",
+    "static/js/2.d794d3b2.chunk.js": "/pace-gpx-front/static/js/2.d794d3b2.chunk.js",
+    "static/js/2.d794d3b2.chunk.js.map": "/pace-gpx-front/static/js/2.d794d3b2.chunk.js.map",
+    "static/js/3.890e4a55.chunk.js": "/pace-gpx-front/static/js/3.890e4a55.chunk.js",
+    "static/js/3.890e4a55.chunk.js.map": "/pace-gpx-front/static/js/3.890e4a55.chunk.js.map",
+    "index.html": "/pace-gpx-front/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/pace-gpx-front/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d794d3b2.chunk.js.LICENSE.txt": "/pace-gpx-front/static/js/2.d794d3b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pace-gpx-front/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.901d9d63.js",
+    "static/js/2.d794d3b2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.bd7110fb.chunk.js"
+  ]
+}
